@@ -1,0 +1,3 @@
+WHAT IS NODEJS
+> runtime environment for executing JS code outside of the browser
+> built upon Chrome's V8 engine using C++
