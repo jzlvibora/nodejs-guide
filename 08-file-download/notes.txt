@@ -1,0 +1,5 @@
+> searches the public folder
+> recognizes index.html automatically as homepage so it is being rendered as default page when lcaolhost:3000 is hit
+> notice pages are not rendered since with href /about and /contact
+> we need to change paths to /about.html and /contact.html
+> notice url in browser becomes .../contact.html , .../about.html
