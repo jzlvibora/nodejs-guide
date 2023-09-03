@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (req,res) => {
     // res.send("This is a form where you can enter the city name to fetch data")
-    res.sendFile(__dirname + "/index.html")
+    // res.sendFile(__dirname + "/index.html")
     const query = "Ottawa"
     const unit = "metric"
     const apiKey = "be7a41513c71ae33e3e758b51675b209"
